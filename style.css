@@ -17,7 +17,7 @@ img{
 .container{
     width: 1140px;
     margin: 0 auto;
-    border: 2px solid black;
+    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
